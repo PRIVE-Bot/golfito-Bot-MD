@@ -1,10 +1,10 @@
- <h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=👑+¡HOLA,+SOY+golfito-BOT!+🔥" alt="Typing SVG">
 </h1>
 
 ---
 <p align="center">
-  <img src="https://files.catbox.moe/i9m71s.jpg" alt="Menú Principal" 
+  <img src="https://files.catbox.moe/mll277.jpg" alt="Menú Principal" 
 width="130" height="130" alt="
 avaricia"/></a>
 </p>  
@@ -200,4 +200,4 @@ href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King
   </a>
 </p>
 
-## ⚔️ [© Powered By golfito 🤴](https://wa.me/message/V5OG4S5WTJYXJ1)
+## ⚔️ [© Powered By golfito 👑](https://wa.me/message/V5OG4S5WTJYXJ1)
