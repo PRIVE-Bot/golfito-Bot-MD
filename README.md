@@ -184,7 +184,7 @@ href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King
   <a href="https://github.com/golfito">
     <img src="https://img.shields.io/badge/GitHub-PRIVE-Bot-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="https://wa.me/8099843134">
+  <a href="https://wa.me/message/V5OG4S5WTJYXJ1">
     <img src="https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp">
   </a>
   <a href="mailto:golfitomartinez0@gmail.com">
@@ -196,7 +196,7 @@ href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King
 
 <p align="center">
   <a href="https://www.paypal.me/golfitomartinez">
-    <img src="https://img.shields.io/badge/Apoya a kirito en PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" alt="Apoya con PayPal" />
+    <img src="https://img.shields.io/badge/Apoya a golfito en PayPal-000000?style=for-the-badge&logo=paypal&logoColor=white" alt="Apoya con PayPal" />
   </a>
 </p>
 
