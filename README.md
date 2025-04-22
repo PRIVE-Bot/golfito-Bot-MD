@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://files.catbox.moe/i9m71s.jpg" alt="Menú Principal" 
 width="130" height="130" alt="
-avaricia"/></>
+avaricia"/></a>
 </p>  
 
 ---
