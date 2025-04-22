@@ -9,7 +9,7 @@ width="130" height="130" alt="
 avaricia"/></a>
 </p>  
 
----
+--
 
 ### 🏆 **Poder y Precisión en un Solo Bot**  
 📌 **Creado por:** `golfito`  
