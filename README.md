@@ -5,7 +5,7 @@
 ---
 <p align="center">
   <img src="https://files.catbox.moe/mll277.jpg" alt="Menú Principal" 
-width="130" height="130" alt="
+width="150" height="150" alt="
 avaricia"/></a>
 </p>  
 
