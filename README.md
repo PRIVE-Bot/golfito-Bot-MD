@@ -200,4 +200,4 @@ href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King
   </a>
 </p>
 
-## ⚔️ [© Powered By golfito 👑](https://wa.me/message/V5OG4S5WTJYXJ1)
+## ⚔️ [© Powered By golfito 🤴](https://wa.me/message/V5OG4S5WTJYXJ1)
